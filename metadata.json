@@ -1,0 +1,7 @@
+{
+  "name": "AutoSphere - Premium Car & Bike Rental System",
+  "description": "Book self-drive cars, city two-wheelers, and luxury chauffeur-driven vehicles across premier metropolitan hubs with transparent pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

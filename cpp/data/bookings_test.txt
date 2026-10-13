@@ -1,0 +1,2 @@
+VR-N8BPCR|lux-bmw-7|BMW 7 Series Signature Edition|Luxury|Arjun Mehta|9876543210|arjun@example.com|Kempegowda Int. Airport (BLR)|Whitefield|2026-10-15|2026-10-15|8|10|8h_80km|16500|2026-10-13T08:01:28Z
+VR-FDY3DC|everyday-suv-creta|Hyundai Creta SX(O)|Everyday|Arjun Mehta|9876543210|arjun@example.com|Kempegowda Int. Airport (BLR)|Whitefield|2026-10-15|2026-10-16|24|0|standard|3000|2026-10-13T08:01:28Z
